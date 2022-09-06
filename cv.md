@@ -44,6 +44,10 @@ function greet() {
 ## Experience
 
 - **Senior 3D Artist** / [Vero Digital](https://vero.digital/)
+- **Self-education projects**
+  - [Site for the Interior Design company](https://vladtestpage.github.io/INTEO/)
+  - [Site for the Art Gallery](https://vladtestpage.github.io/LOGO/)
+  - [Site for the Architectural company](https://vladtestpage.github.io/LUGAR/)
 
 ## Education
 
